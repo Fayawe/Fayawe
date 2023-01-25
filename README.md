@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas alias Fayawe
-- 👀 I’m interested in cooking and code
-- 🌱 I’m currently learning javascript and PHP 
-- 💞️ I’m looking to collaborate on javascript and train on python
+- 👀 I’m interested in design UX UI and code
+- 🌱 I'm learning to use software like Adobe XD, Photoshop, Première pro
+- 💞️ I am looking for design projects or video editing 
 - 📫 How to reach me tdnsco@outlook.fr
 
 <!---
